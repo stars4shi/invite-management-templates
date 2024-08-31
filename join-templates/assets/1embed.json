@@ -1,11 +1,11 @@
 {
 	"embeds": [
 		{
-			"color": 6746969,
+			"color": 89126b,
 			"fields": [
 				{
 					"value": "・${user_mention}\n・`​${user_tag}`​\n・Account created ${user_created_date}\n・Invited by ${inviter_mention}​",
-					"name": "<:Join:906259324911882281> User joined",
+					"name": "<:Join:906259324911882281> User has joined the Yappers!",
 					"inline": true
 				}
 			],
